@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
+		"email": "crepinstanislask@gmail.com",
+		"password": "Stanizax77",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -14,11 +14,11 @@
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
 	"nickNameBot": "GoatBot",
 	"prefix": "-",
-	"adminOnly": {
+	"adminOnly": {100076705691995
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
+	"adminBot": [100076705691995],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
