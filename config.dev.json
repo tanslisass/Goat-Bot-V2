@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
+		"email": "crepinstanislask@gmail.com",
+		"password": "Stanizax77",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -12,9 +12,9 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "GoatBot",
+	"nickNameBot": "TANSLIBOT",
 	"prefix": "-",
-	"adminOnly": {
+	"adminOnly": {100076705691995
 		"enable": false,
 		"ignoreCommand": []
 	},
@@ -40,15 +40,15 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "",
-			"clientId": "",
-			"clientSecret": "",
-			"refreshToken": "",
-			"apiKey": ""
+			"email": "crepinstanislask@gmail.com",
+			"clientId": "335951889803-q0sqvpqjire12vl0c1drqpvq6trqe7qi.apps.googleusercontent.com",
+			"clientSecret": "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",
+			"refreshToken": "1//04vKSsirtbMjRCgYIARAAGAQSNwF-L9Ir45Y2gJy6rg7wvfCbzF5fTFQxOhV83N6jQC-N5n6S-rNnEUgujiuWu4OvrLEbmELMcSI",
+			"apiKey": "gRecaptcha"
 		},
 		"gRecaptcha": {
-			"siteKey": "",
-			"secretKey": ""
+			"siteKey": "6LcEPTMpAAAAAKRhQmTp03g4rkq-U6jXs8E8rDf5",
+			"secretKey": "6LcEPTMpAAAAAKRhQmTp03g4rkq-U6jXs8E8rDf5"
 		}
 	},
 	"dashBoard": {
