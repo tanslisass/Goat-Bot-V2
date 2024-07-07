@@ -41,14 +41,14 @@
 	"credentials": {
 		"gmailAccount": {
 			"email": "",
-			"clientId": "",
-			"clientSecret": "",
-			"refreshToken": "",
+			"clientId": "335951889803-q0sqvpqjire12vl0c1drqpvq6trqe7qi.apps.googleusercontent.com",
+			"clientSecret": "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",
+			"refreshToken": "1//04vKSsirtbMjRCgYIARAAGAQSNwF-L9Ir45Y2gJy6rg7wvfCbzF5fTFQxOhV83N6jQC-N5n6S-rNnEUgujiuWu4OvrLEbmELMcSI",
 			"apiKey": ""
 		},
 		"gRecaptcha": {
-			"siteKey": "",
-			"secretKey": ""
+			"siteKey": "6LcEPTMpAAAAAKRhQmTp03g4rkq-U6jXs8E8rDf5",
+			"secretKey": "6LcEPTMpAAAAAKRhQmTp03g4rkq-U6jXs8E8rDf5"
 		}
 	},
 	"dashBoard": {
