@@ -40,15 +40,15 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "",
-			"clientId": "",
-			"clientSecret": "",
-			"refreshToken": "",
+			"email": "stanislask44@gmail.com",
+			"clientId": "1010906918510-po4nstt02ukm3j8da8gd9t2njn33acsp.apps.googleusercontent.com",
+			"clientSecret": "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",
+			"refreshToken": "1//04X9tzthbee33CgYIARAAGAQSNwF-L9IrZvHvP-FdUaDwX35mLZdRfaMGosyNgc27",
 			"apiKey": ""
 		},
 		"gRecaptcha": {
-			"siteKey": "",
-			"secretKey": ""
+			"siteKey": "6LfesxcpAAAAACHTjiR6XLauQRrxcmxXIZdsw3I7",
+			"secretKey": "6LfesxcpAAAAAEiICuwpnAJJ3Zz8ikfaeMko2cdY"
 		}
 	},
 	"dashBoard": {
