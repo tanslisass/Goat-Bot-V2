@@ -41,14 +41,14 @@
 	"credentials": {
 		"gmailAccount": {
 			"email": "stanislask44@gmail.com",
-			"clientId": "1010906918510-po4nstt02ukm3j8da8gd9t2njn33acsp.apps.googleusercontent.com",
-			"clientSecret": "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",
-			"refreshToken": "1//04X9tzthbee33CgYIARAAGAQSNwF-L9IrZvHvP-FdUaDwX35mLZdRfaMGosyNgc27",
+			"clientId": "841533523565-9j4lequ38hna2asi6vvOje1amooccgm6.apps.googleusercontent.com",
+			"clientSecret": "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",
+			"refreshToken": "1//04fmtOYaqW4BhCgYIARAAGAQSNwF-L9IrMomhqSPpxk6MjBxp_HO6-cgjvUmwJSvtXItbwoBt7Heuzw5_grl_Amp2mDKUA5BqQ-G",
 			"apiKey": ""
 		},
 		"gRecaptcha": {
-			"siteKey": "6LfesxcpAAAAACHTjiR6XLauQRrxcmxXIZdsw3I7",
-			"secretKey": "6LfesxcpAAAAAEiICuwpnAJJ3Zz8ikfaeMko2cdY"
+			"siteKey": "",
+			"secretKey": ""
 		}
 	},
 	"dashBoard": {
